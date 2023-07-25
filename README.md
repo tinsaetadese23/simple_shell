@@ -1,1 +1,2 @@
-Write a code that passes the betty checks
+# SIMPLE SHELL
+## Simple shell is a project that includes almost all C Programming concepts.

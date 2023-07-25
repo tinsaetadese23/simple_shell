@@ -36,9 +36,9 @@ $  ls -l
 -rw-r--r-- 1 abina 197609 1372 Oct 30 11:15 f_exit.c
 
 .SH AUTHOR'S				
--Written by Abinet Tesfu <abinatmail@gmail.com> and Melat Samuel <melatsam555@gmail.com>
+-Written by Tinsae Tadese <tinsaetadese23@gmail.com> and Cherry Udezze<cherryudezze@gmail.com>
 
 .SH BUGS
-There were no errors in the testing time of this code (October 30, 2021).
+There were no errors in the testing time of this code (July 25, 2023).
 .SH SEE ALSO
 sh
